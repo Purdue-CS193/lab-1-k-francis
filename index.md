@@ -1,3 +1,5 @@
+# k-francis's first CS193 Lab
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -21,6 +23,10 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
 **Lab date listing**
 1. 8/28
 2. 9/11
@@ -30,9 +36,10 @@ Syntax highlighted code block
 6. 11/13
 7. 11/27
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Favorite things about CS193**
+- It's a fun class
+- I get to meet other CS students
+- No tests!
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
