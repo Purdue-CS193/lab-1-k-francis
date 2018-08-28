@@ -21,6 +21,15 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+**Lab date listing**
+1. 8/28
+2. 9/11
+3. 9/25
+4. 10/16
+5. 10/30
+6. 11/13
+7. 11/27
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
